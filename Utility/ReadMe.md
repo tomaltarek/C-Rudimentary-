@@ -1,1 +1,1 @@
-These programs will describe some logic of frequently used codes. 
+These programs will describe algorithms of frequently used issues 
